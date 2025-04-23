@@ -1,54 +1,48 @@
 <h1 align="center">Hi 👋, I'm Gagan Kumar</h1>
-<h3 align="center">Data Analyst | SQL & Excel Specialist | B.Com (Hons)</h3>
+<h3 align="center">Data Analyst | SQL & Excel Specialist | Delhi, India</h3>
 
 ---
 
-### 🚀 About Me
-I transform raw data into business insights using SQL and Excel. Passionate about data cleaning, analysis, and visualization to drive decision-making.
-
----
-
-### 🔧 Core Skills
+### 🛠️ Technical Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL/MySQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="PivotTables, Dashboards"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="DAX, Data Modeling"/>
 </p>
 
 ---
 
-### 📊 Featured Projects
+### 📌 Featured Projects
 
-#### 🍕 [Pizza Sales Analysis](https://github.com/Gagan4141)
-- **Tools:** SQL (Data Extraction), Excel (Pivot Tables, Dashboards)
-- Analyzed 12K+ orders to identify top-selling pizzas and peak hours
-- Created dynamic sales reports with Excel slicers and charts
+#### � **Pizza Sales Analysis** | [View Project](https://github.com/Gagan4141)
+- **Tools:** SQL (Data Cleaning), Excel (Dashboard)
+- Analyzed 12,000+ orders to optimize inventory and pricing
+- Created interactive sales reports with Excel PivotTables and slicers
 
-#### 🎯 [Marketing Campaign Analysis](https://github.com/Gagan4141)
-- **Tools:** Pure SQL (PostgreSQL)
-- Optimized ad spend by analyzing customer response rates
-- Wrote complex queries with window functions and CTEs
+#### 📢 **Marketing Campaign Analysis** | [View Project](https://github.com/Gagan4141)
+- **Tools:** PostgreSQL (Pure SQL)
+- Evaluated campaign performance using CTEs and window functions
+- Identified high-value customer segments for targeted marketing
 
-#### 📑 [HR Analytics Dashboard](https://github.com/Gagan4141)
+#### 👥 **HR Analytics Dashboard** | [View Project](https://github.com/Gagan4141)
 - **Tools:** Power BI, Excel
-- Visualized employee attrition trends with interactive filters
+- Visualized employee attrition trends with drill-down capabilities
 
 ---
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagan4141&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagan4141&theme=dark" width="45%"/>
-</p>
+### 📚 Currently Learning
+- Advanced SQL (Query Optimization)
+- Python for Data Analysis (Pandas, NumPy)
+- Power BI DAX formulas
 
 ---
 
-### 📫 Let's Connect
+### 📫 Reach Me At
 <p align="center">
   <a href="https://www.linkedin.com/in/gagan-kumar-801445191">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
   <a href="mailto:gag4kumar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
